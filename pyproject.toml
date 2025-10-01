@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "kdot-mustard"
-version = "0.1.6"
+version = "1.0.0"
 authors = [
   { name="KrashKart", email="shootandscoot222@gmail.com" },
 ]
