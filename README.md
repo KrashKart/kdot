@@ -17,7 +17,7 @@ kdot_example() # if you need a demonstration of syrup sandwiches and crime allow
 ```
 
 and you have your very own mustardized Mr. Morales jumpscare:
-![boo!](src\kdot_mustard\img\bossman.gif)
+![boo!](./src/kdot_mustard/img/bossman.gif)
 
 # Documentation
 ## ```kdot```
